@@ -1,0 +1,9 @@
+{
+    "name": "MapTeleport",
+    "version_number": "0.4.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/251",
+    "description": "Allows you to teleport by shift-clicking on the map. Created by aedenthorn",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}
